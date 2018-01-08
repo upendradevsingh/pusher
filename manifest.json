@@ -1,0 +1,12 @@
+{
+    "gcm_sender_id": "123456789",
+    "icons": [
+        {
+            "src": "https://someweb.com/a-logo.jpg",
+            "sizes": "192x192"
+        }
+    ],
+    "name": "App",
+    "short_name": "App",
+    "display": "standalone"
+}
